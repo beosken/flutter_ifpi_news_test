@@ -1,0 +1,22 @@
+[
+   {
+      "id":"63443",
+      "tittle":"AnTuTu disponibiliza ranking dos 10 smartphones mais r\u00e1pidos do m\u00eas de agosto",
+      "description":"AnTuTu libera a lista dos dez aparelhos que melhor pontuaram, com predomin\u00e2ncia chinesa",
+      "url_img":"https://raw.githubusercontent.com/RafaelBarbosatec/tutorial_flutter_medium/master/api/imgs/63443.jpg",
+      "link":"https:\/\/www.tudocelular.com\/curiosidade\/noticias\/n130269\/antutu-top-10-smartphones-agosto.html",
+      "origin":"Tudocelular.com",
+      "category":"technology",
+      "date":"2018-09-03 22:19:48"
+   },
+   {
+      "id":"63438",
+      "tittle":"Antutu \u2013 Conhe\u00e7a os 10 melhores smartphones de agosto",
+      "description":"A lista de agosto do Antutu j\u00e1 \u00e9 conhecida, destacando os melores smartphones durante este m\u00eas nos smartphones. Quem estar\u00e1 a liderar este top?",
+      "url_img":"https://raw.githubusercontent.com/RafaelBarbosatec/tutorial_flutter_medium/master/api/imgs/63438.jpg",
+      "link":"https:\/\/pplware.sapo.pt\/smartphones-tablets\/android\/con\/",
+      "origin":"Sapo.pt",
+      "category":"technology",
+      "date":"2018-09-03 21:00:56"
+   }
+]
